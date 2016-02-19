@@ -60,13 +60,6 @@ except ValueError:
 
 
 
-"""
-   Ace of Clubs
-   1
-   Clubs
-   Ace
-
-"""
 
 
 
